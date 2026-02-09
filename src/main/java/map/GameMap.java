@@ -22,7 +22,6 @@ public class GameMap {
     private Position lightBlueSpawn;
     private Position orangeSpawn;
 
-    // @FIX: Removidos os elementos extras nas linhas 9 e 15 que causavam o erro de index
     private final int[][] map = {
             {1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},
             {1, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 1},
