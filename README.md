@@ -80,18 +80,7 @@ br.com.marco.pacman.Main
 Done 😄
 The game will start normally.
 
-🗂️ Project structure
-
-br.com.marco.pacman
- ├── entity        (PacMan, ghosts, entities and states)
- ├── map           (map, tiles and pathfinding)
- ├── game          (game loop, score)
- ├── ui            (GamePanel, menus, screens)
- ├── util          (helper classes)
- └── Main.java
-
-
 ⭐ Final note
 
-This project is not an official copy of the original Pac-Man.
+This project is not an official version of the original Pac-Man.
 It is a non-profit educational project, inspired by the classic game.
