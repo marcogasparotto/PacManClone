@@ -11,16 +11,7 @@ This project was created for study and practice of object-oriented programming, 
 ✔️ Pac-Man life counter
 ✔️ Power Pellet (ghost frightened mode)
 ✔️ Ghosts with pathfinding
-✔️ Ghost states:
-
-chase
-
-frightened
-
-eaten
-
-locked in spawn
-
+✔️ Ghost states
 ✔️ Victory screen
 ✔️ Game over screen
 ✔️ Position reset after death
